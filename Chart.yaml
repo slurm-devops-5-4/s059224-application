@@ -1,9 +1,0 @@
-description: flask app Helm chart for Kubernetes.
-home: https://flask.s059224.edu.slurm.io
-maintainers:
-- email: slurm_devops_5_4@mail.ru
-  name: s059224
-name: app
-sources:
-- https://gitlab.s059224.edu.slurm.io/s059224/application
-version: 1.0.0
